@@ -13,22 +13,23 @@ python -m venv venv
 
 .\venv\Scripts\activate
 ```
-3. Install dependencies
+```3. Install dependencies
 pip install -r requirements.txt
-
-4. Install Playwright browsers
+```
+```4. Install Playwright browsers
 python -m playwright install
-
+```
 🎯 Usage
-Run human-like simulation
+```Run human-like simulation
 python bots/typespeed_bot.py --mode human_like --iterations 5
-
-Bot-obvious simulation
+```
+```Bot-obvious simulation
 python bots/typespeed_bot.py --mode bot_obvious --fixed_delay_ms 5 --iterations 3
-
-Superhuman bot simulation
+```
+```Superhuman bot simulation
 python bots/typespeed_bot.py --mode superhuman --iterations 2
-
-Headful mode
+```
+```Headful mode
 python bots/typespeed_bot.py --headful
 
+```
