@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "iteration": 9,
+    "profile": "superhuman",
+    "site_mode": "standard",
+    "start_time": "2025-12-02T16:03:05.406088Z",
+    "extracted_wpm": 83.0,
+    "extracted_accuracy": 83.0,
+    "computed_wpm": 1057.4869296350994,
+    "keystrokes_count": 55,
+    "end_time": "2025-12-02T16:03:14.143790Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "c",
+      "timestamp": 1764691392.4792352,
+      "action": "keypress"
+    },
+    {
+      "key": "\n",
+      "timestamp": 1764691392.4955983,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764691392.507986,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764691392.5267274,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764691392.5457182,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764691392.5609753,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764691392.5737512,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691392.5906067,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.6069279,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764691392.611967,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764691392.6271517,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.6420074,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764691392.643532,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764691392.659999,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764691392.6732616,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.690624,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764691392.690624,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764691392.706017,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691392.7203224,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.7329996,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764691392.7391038,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764691392.749486,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764691392.763242,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691392.7772298,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764691392.790494,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764691392.8013608,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691392.8172219,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.826991,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764691392.8289988,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764691392.8437266,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.8549118,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764691392.859911,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691392.867459,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764691392.8801396,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764691392.8926864,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.9051147,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764691392.9072664,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764691392.9213684,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764691392.9375613,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691392.9459612,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764691392.9459612,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764691392.9632955,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764691392.9719634,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764691392.9921148,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691393.0025115,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764691393.0145588,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764691393.024163,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691393.038163,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764691393.0423136,
+      "action": "keypress"
+    },
+    {
+      "key": "v",
+      "timestamp": 1764691393.0547848,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764691393.0644364,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764691393.0730865,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764691393.0899713,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764691393.0912273,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764691393.1033564,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "c\nourage\u00a0is\u00a0not\u00a0the\u00a0absence\u00a0of\u00a0fear\u00a0but\u00a0mastery\u00a0over\u00a0it"
+}

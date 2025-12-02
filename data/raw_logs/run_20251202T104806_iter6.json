@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "iteration": 6,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-02T10:47:58.920540Z",
+    "extracted_wpm": 96.0,
+    "extracted_accuracy": 96.0,
+    "computed_wpm": 600.1820581533938,
+    "keystrokes_count": 41,
+    "end_time": "2025-12-02T10:48:06.159719Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "p",
+      "timestamp": 1764672484.2919905,
+      "action": "keypress"
+    },
+    {
+      "key": "\n",
+      "timestamp": 1764672484.315885,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764672484.3382604,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764672484.3622382,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764672484.3828382,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764672484.4042425,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764672484.4268706,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764672484.446896,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764672484.467949,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.4940822,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764672484.5036676,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764672484.52432,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.5428643,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764672484.5525446,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764672484.57218,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764672484.5969102,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.6156752,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764672484.628067,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764672484.6460297,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764672484.6680033,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.68327,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764672484.693213,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764672484.712456,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.734742,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764672484.7430668,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764672484.7673697,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764672484.7866683,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764672484.8039134,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764672484.8176827,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764672484.841088,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672484.8683476,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764672484.887497,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764672484.920705,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764672484.9510915,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764672484.9767392,
+      "action": "keypress"
+    },
+    {
+      "key": "\u00a0",
+      "timestamp": 1764672485.0055993,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764672485.0162601,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764672485.041457,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764672485.069338,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764672485.0880945,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764672485.1117418,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "p\natience\u00a0is\u00a0the\u00a0art\u00a0of\u00a0hoping\u00a0with\u00a0grace"
+}
