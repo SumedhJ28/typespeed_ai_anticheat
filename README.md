@@ -1,7 +1,7 @@
 🔧 Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/SumedhJ28/typespeed_ai_anticheat.git
 cd typespeed_ai_anticheat
 ```
 
@@ -33,3 +33,4 @@ python bots/typespeed_bot.py --mode superhuman --iterations 2
 python bots/typespeed_bot.py --headful
 
 ```
+
