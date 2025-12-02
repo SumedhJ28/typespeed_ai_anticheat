@@ -1,16 +1,18 @@
 🔧 Installation
 1. Clone the repo
+```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 cd typespeed_ai_anticheat
+```
 
-2. Create virtual environment
+```2. Create virtual environment
 python -m venv venv
+```
 
-
-Activate (Windows):
+```Activate (Windows):
 
 .\venv\Scripts\activate
-
+```
 3. Install dependencies
 pip install -r requirements.txt
 
@@ -29,3 +31,4 @@ python bots/typespeed_bot.py --mode superhuman --iterations 2
 
 Headful mode
 python bots/typespeed_bot.py --headful
+
