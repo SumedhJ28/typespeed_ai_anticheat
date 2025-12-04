@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "iteration": 21,
+    "profile": "human_like",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T11:27:08.250784Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 81.9766748966985,
+    "keystrokes_count": 56,
+    "end_time": "2025-12-04T11:27:21.662105Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "l",
+      "timestamp": 1764847632.226523,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847632.338454,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847632.5499618,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764847632.76438,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847632.9302287,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847633.0755217,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847633.2877073,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764847633.5106032,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847633.5936043,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847633.6572316,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847633.8433607,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847633.9058173,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847634.0053773,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764847634.1480136,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847634.3784876,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847634.5008833,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847634.597078,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847634.823067,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764847635.0056264,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764847635.182779,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847635.3068142,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847635.3748727,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847635.6021168,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847635.6887755,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847635.7457106,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847635.9647644,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847636.0517795,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847636.1850405,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847636.3670888,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847636.7768695,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847636.8776414,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764847637.0226216,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847637.126385,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847637.2222385,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847637.371519,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847637.5044067,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847637.6961126,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847637.9180324,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847638.1145277,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764847638.2880893,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847638.3642788,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847638.4287598,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764847638.5239599,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764847638.630403,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847638.7788754,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764847638.941778,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847639.0629835,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847639.2640398,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847639.4460332,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764847639.5284588,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847639.5985806,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764847639.8112805,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764847639.9792237,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764847640.087514,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847640.2569296,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847640.4239767,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "learning is not a phase it is the essence of being human"
+}

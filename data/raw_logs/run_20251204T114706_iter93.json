@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "iteration": 93,
+    "profile": "human_like",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T11:46:54.216988Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 75.71334569199135,
+    "keystrokes_count": 38,
+    "end_time": "2025-12-04T11:47:06.797054Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "s",
+      "timestamp": 1764848819.6099668,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764848819.7432718,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764848819.9607427,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848820.1810637,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764848820.3671699,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764848820.5416877,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848820.7271247,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848820.8281546,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764848821.0481188,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764848821.1260252,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848821.3374395,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848821.4029253,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764848821.5693705,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848821.6671681,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848821.8274894,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764848821.9418726,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848822.1590586,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764848822.2631924,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764848822.463832,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848822.6765215,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848822.7402542,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764848822.9455943,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764848823.0988019,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764848823.2849007,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764848823.4660652,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848823.679867,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764848823.8428636,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848823.921975,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848824.0508032,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764848824.2445366,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764848824.4139638,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764848824.5331745,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848824.7518137,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764848824.871799,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764848825.0571444,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764848825.231414,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764848825.4062824,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848825.632683,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "silence often speaks louder than words"
+}

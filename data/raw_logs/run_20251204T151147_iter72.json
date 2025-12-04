@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "iteration": 72,
+    "profile": "superhuman",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T15:11:30.741190Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 282.5117783682891,
+    "keystrokes_count": 43,
+    "end_time": "2025-12-04T15:11:47.601166Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "t",
+      "timestamp": 1764861104.7006345,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764861105.8551438,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861105.8775058,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861105.9009228,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764861105.9221766,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861105.9412165,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764861105.9575737,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861105.974153,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861105.9869885,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861106.0040848,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764861106.017535,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.0324812,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861106.0484712,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764861106.0623813,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.0823734,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764861106.0931988,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861106.1123288,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764861106.1269956,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861106.1424217,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.165538,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861106.1823456,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764861106.198779,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.2111437,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764861106.2250698,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861106.23614,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.2579958,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764861106.2742665,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861106.2925377,
+      "action": "keypress"
+    },
+    {
+      "key": "v",
+      "timestamp": 1764861106.3111405,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861106.3287883,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.3509521,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764861106.36344,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861106.3771734,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764861106.3928893,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861106.4069693,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861106.4211915,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764861106.4346156,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861106.4512012,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764861106.4651275,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861106.4817142,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861106.497063,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861106.5110939,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764861106.527107,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "the meaning of life is to give life meaning"
+}

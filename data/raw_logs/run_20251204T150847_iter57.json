@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "iteration": 57,
+    "profile": "superhuman",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T15:08:38.648900Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 721.9284454112978,
+    "keystrokes_count": 57,
+    "end_time": "2025-12-04T15:08:47.591306Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "w",
+      "timestamp": 1764860925.573625,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860925.5966837,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860925.6126797,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860925.632252,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860925.6485236,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764860925.6643555,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860925.6827397,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764860925.6968384,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860925.711345,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860925.7260172,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860925.7427182,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860925.7547216,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860925.7733665,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860925.787788,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764860925.8046849,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860925.820472,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860925.8348987,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860925.84695,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860925.8621793,
+      "action": "keypress"
+    },
+    {
+      "key": "j",
+      "timestamp": 1764860925.8724368,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860925.8834002,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860925.9010992,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860925.9188256,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764860925.9371383,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860925.9525387,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860925.9661117,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860925.9809234,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860925.9951634,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860926.013712,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.0346808,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860926.0510345,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860926.067352,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860926.0828738,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860926.1370144,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.1558244,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860926.172757,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860926.190481,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860926.2029295,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.225907,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860926.2411318,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860926.260146,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860926.2752154,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860926.2934587,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860926.3112307,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860926.3289773,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.3426855,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860926.3602192,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860926.3712804,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.3932812,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860926.407057,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860926.424452,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764860926.440325,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860926.4576225,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860926.4712763,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860926.4910502,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860926.5045831,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860926.5210874,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "wisdom begins when judgment ends and understanding begins"
+}

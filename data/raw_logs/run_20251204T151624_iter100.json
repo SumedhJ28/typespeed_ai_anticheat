@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "iteration": 100,
+    "profile": "superhuman",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T15:16:16.946228Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 658.8325616123462,
+    "keystrokes_count": 49,
+    "end_time": "2025-12-04T15:16:24.666977Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "e",
+      "timestamp": 1764861382.7110534,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764861382.7465577,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764861382.769178,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764861382.7854772,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764861382.8110836,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764861382.8313675,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861382.8508742,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861382.8690243,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861382.8813083,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861382.9028997,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861382.9191265,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764861382.9429758,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861382.9613876,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861382.9819732,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764861383.0058148,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861383.0262241,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764861383.0410314,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861383.0548067,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861383.069632,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764861383.0840082,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764861383.1009033,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861383.1206043,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764861383.138459,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764861383.1583676,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764861383.1764922,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764861383.198358,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861383.215833,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764861383.2329578,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764861383.250759,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861383.273314,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861383.2894135,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764861383.2970212,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764861383.3283849,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764861383.3377724,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764861383.3595862,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861383.3821683,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861383.3999312,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764861383.4169302,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861383.4345472,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861383.4517183,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764861383.4693289,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764861383.4860203,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764861383.498572,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764861383.516957,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764861383.5310981,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764861383.5483932,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764861383.563711,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764861383.5815432,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764861383.6035411,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "education opens doors that ignorance keeps locked"
+}

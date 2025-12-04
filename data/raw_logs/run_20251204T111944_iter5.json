@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "iteration": 5,
+    "profile": "human_like",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T11:19:31.948320Z",
+    "extracted_wpm": 3.0,
+    "extracted_accuracy": 8.0,
+    "computed_wpm": 76.24741471121479,
+    "keystrokes_count": 48,
+    "end_time": "2025-12-04T11:19:44.111712Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "g",
+      "timestamp": 1764847176.0946188,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847176.216798,
+      "action": "keypress"
+    },
+    {
+      "key": "Backspace",
+      "timestamp": 1764847176.2795196,
+      "action": "backspace"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764847176.2910247,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847176.4047878,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847176.4660416,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764847176.625243,
+      "action": "keypress"
+    },
+    {
+      "key": "Backspace",
+      "timestamp": 1764847176.686936,
+      "action": "backspace"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847176.6915205,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847176.9087121,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764847177.1354039,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764847177.2601671,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847177.4628415,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847177.6886902,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847177.8944845,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764847178.0506754,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764847178.2763588,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847178.4329646,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847178.5983386,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847178.788337,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764847179.015687,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764847179.1812599,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764847179.3661828,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847179.5833168,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847179.704975,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847179.8981714,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764847180.083949,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764847180.1558394,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847180.27785,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764847180.4067664,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764847180.4859965,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764847180.624719,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847180.7074845,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847180.8495877,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847181.0769672,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847181.1851258,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764847181.2928827,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764847181.3629293,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764847181.5023997,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764847181.6899388,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764847181.8354957,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764847182.0035293,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847182.0801961,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847182.3000786,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764847182.5225527,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764847182.6178732,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764847182.8331757,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764847183.0194438,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "gratitude turns ordinary days into blessings"
+}

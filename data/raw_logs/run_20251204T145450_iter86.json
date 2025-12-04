@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "iteration": 86,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T14:54:41.886799Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 470.75076104769613,
+    "keystrokes_count": 46,
+    "end_time": "2025-12-04T14:54:50.151530Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "t",
+      "timestamp": 1764860087.9113173,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860087.9451616,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860087.9762857,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.0015073,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860088.0289495,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860088.0568576,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860088.0811818,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860088.1057084,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860088.133852,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.1598048,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764860088.182453,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860088.2062,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860088.2290804,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764860088.255986,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860088.2836444,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.30964,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860088.3309205,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860088.3587027,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860088.3775642,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860088.3992558,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860088.4277544,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860088.4545455,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.4800625,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860088.5067463,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860088.5298831,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860088.5519648,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.576523,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764860088.5932584,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860088.6219707,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860088.648406,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860088.6735458,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.7007442,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860088.7244031,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860088.7463179,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860088.7692554,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860088.791588,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860088.8118815,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860088.890243,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860088.9238117,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860088.9525208,
+      "action": "keypress"
+    },
+    {
+      "key": "x",
+      "timestamp": 1764860088.9758837,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764860088.9955237,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764860089.0216603,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860089.0431242,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860089.061804,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860089.0839124,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "the heart knows truths the mind cannot explain"
+}

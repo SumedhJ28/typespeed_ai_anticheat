@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "iteration": 19,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T14:43:19.528438Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 541.0306888780569,
+    "keystrokes_count": 26,
+    "end_time": "2025-12-04T14:43:25.396086Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "d",
+      "timestamp": 1764859403.7541528,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764859403.7990882,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859403.8238876,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859403.845144,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764859403.8709881,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859403.897475,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764859403.9259846,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859403.9475973,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764859403.970871,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859403.99236,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859404.0115528,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764859404.0367703,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764859404.0591595,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859404.093329,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764859404.1161044,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859404.1356866,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764859404.1534305,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859404.1781085,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859404.1961737,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859404.215331,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764859404.2353642,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859404.2530248,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764859404.2706256,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859404.289831,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859404.310541,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764859404.3308299,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "dream big and dare to fail"
+}

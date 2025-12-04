@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "iteration": 80,
+    "profile": "human_like",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T11:43:21.400368Z",
+    "extracted_wpm": 48.0,
+    "extracted_accuracy": 62.0,
+    "computed_wpm": 79.74491195462028,
+    "keystrokes_count": 47,
+    "end_time": "2025-12-04T11:43:34.826780Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "f",
+      "timestamp": 1764848606.8367693,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764848607.0111706,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764848607.1923192,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764848607.3877025,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764848607.6028888,
+      "action": "keypress"
+    },
+    {
+      "key": "v",
+      "timestamp": 1764848607.6665375,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848607.7843375,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764848607.9500856,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848608.165802,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848608.3236659,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848608.5175555,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848608.7081354,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764848608.856697,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848608.9833858,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848609.1057987,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848609.2648635,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764848609.3297377,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848609.530122,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848609.6422436,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764848609.857774,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848609.9725933,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764848610.0312135,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848610.1460135,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848610.3762019,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764848610.4923618,
+      "action": "keypress"
+    },
+    {
+      "key": "k",
+      "timestamp": 1764848610.652469,
+      "action": "keypress"
+    },
+    {
+      "key": "Backspace",
+      "timestamp": 1764848610.8177161,
+      "action": "backspace"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764848610.8259346,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848610.925457,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848611.0610836,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764848611.1963906,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764848611.3868773,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848611.5126119,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848611.7282596,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848611.8859148,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848612.0384843,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764848612.1887817,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764848612.3375857,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848612.4886956,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764848612.6135974,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764848612.7237725,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764848612.7774866,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764848612.873115,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764848613.0960135,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764848613.3226984,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764848613.4155858,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764848613.6083612,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "forgiveness is the key that frees both hearts"
+}

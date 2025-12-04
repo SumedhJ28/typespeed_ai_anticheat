@@ -237,7 +237,7 @@ def run_iteration(playwright, args, iteration_idx):
     )
 
     # collapse multiple whitespace into a single space
-    target_text = re.sub(r"\s+", " ", target_text).strip()
+    target_text = re.sub(r'(^|\s)(?![aI]\s)([A-Za-z])\s+(?=[a-z])', r'\1\2', target_text)
 
     # Collapse runs of single-letter alphabetic tokens (e.g. "t r u t h" -> "truth")
     # but keep isolated single-letter words (e.g. "I have") intact.

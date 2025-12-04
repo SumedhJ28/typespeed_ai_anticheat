@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "iteration": 37,
+    "profile": "superhuman",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T15:04:57.602564Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 641.6956518351623,
+    "keystrokes_count": 54,
+    "end_time": "2025-12-04T15:05:05.607568Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "c",
+      "timestamp": 1764860703.516669,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860703.5440056,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860703.5628192,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860703.5811088,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860703.6034122,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860703.625811,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860703.6437511,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860703.668159,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860703.7422395,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860703.7569168,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860703.7811582,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860703.7949085,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860703.812868,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860703.8326075,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860703.8458798,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860703.8721535,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764860703.8852942,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764860703.9026403,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860703.922942,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860703.9408572,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860703.9578645,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860703.978505,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860704.0010624,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.0209818,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860704.0360565,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860704.058927,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.0750756,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860704.0945945,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764860704.111031,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860704.1268783,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.146503,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860704.1648178,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.1793544,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860704.1949713,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860704.212346,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860704.2310832,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860704.2460003,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860704.2632127,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860704.2812884,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860704.294454,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860704.3110635,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860704.3312936,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.3462014,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860704.3640852,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860704.3836026,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860704.3988764,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860704.4154887,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860704.4325883,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764860704.4462395,
+      "action": "keypress"
+    },
+    {
+      "key": "b",
+      "timestamp": 1764860704.4612906,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860704.4813654,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860704.4923801,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860704.5121613,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860704.5264935,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "change is the only constant yet the hardest to embrace"
+}

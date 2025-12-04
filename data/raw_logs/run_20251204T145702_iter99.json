@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "iteration": 99,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T14:56:54.651851Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 487.9032547719362,
+    "keystrokes_count": 54,
+    "end_time": "2025-12-04T14:57:02.774706Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "t",
+      "timestamp": 1764860220.3576224,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860220.3895686,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860220.4114304,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860220.4363432,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860220.463607,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764860220.4882455,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860220.513694,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860220.5372307,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860220.5609767,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860220.5852454,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860220.6096077,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860220.6360304,
+      "action": "keypress"
+    },
+    {
+      "key": "x",
+      "timestamp": 1764860220.6627443,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860220.6889024,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860220.7097774,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860220.738551,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860220.7658684,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860220.7927194,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860220.816591,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860220.841917,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860220.8695498,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860220.8945236,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860220.941192,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860220.966775,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860220.9876363,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764860221.0144665,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860221.0395963,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860221.063047,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860221.0869918,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860221.1142452,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860221.1408966,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764860221.164424,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860221.1853533,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860221.2074242,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860221.2318802,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860221.2545495,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764860221.2714212,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860221.2963002,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860221.3170888,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860221.3419526,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860221.360836,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860221.3865628,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860221.4108071,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860221.4356894,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860221.4618971,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860221.483824,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860221.5118792,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764860221.5353465,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860221.563593,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860221.5909817,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860221.6162705,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860221.6413538,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860221.6660569,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764860221.6857545,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "true peace exists in accepting what you cannot control"
+}

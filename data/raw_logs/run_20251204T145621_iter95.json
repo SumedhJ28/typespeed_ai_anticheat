@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "iteration": 95,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T14:56:13.039068Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 498.53205723960644,
+    "keystrokes_count": 47,
+    "end_time": "2025-12-04T14:56:21.028256Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "t",
+      "timestamp": 1764860178.8168075,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860178.8506334,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860178.879589,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860178.9066114,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860178.9302924,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860178.956573,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860178.9777672,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860179.0043852,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860179.030811,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860179.0547328,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860179.075816,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860179.1018772,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.1245978,
+      "action": "keypress"
+    },
+    {
+      "key": "j",
+      "timestamp": 1764860179.155039,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860179.183116,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860179.210843,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860179.233447,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860179.257795,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860179.2812593,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764860179.3051507,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.3240318,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860179.3462045,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860179.3749564,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.4000978,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764860179.4234643,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764860179.4489746,
+      "action": "keypress"
+    },
+    {
+      "key": "w",
+      "timestamp": 1764860179.4727921,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764860179.495434,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860179.5194519,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764860179.542042,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.5618525,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860179.5885482,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860179.6092649,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764860179.640348,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764860179.6698804,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764860179.6970682,
+      "action": "keypress"
+    },
+    {
+      "key": "g",
+      "timestamp": 1764860179.715808,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860179.742334,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.7617762,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764860179.7804742,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764860179.8058224,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860179.8264434,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764860179.8521051,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764860179.8745477,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764860179.900347,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764860179.9235327,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764860179.948129,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "the greatest journey is inward through the self"
+}

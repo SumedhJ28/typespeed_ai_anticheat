@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "iteration": 37,
+    "profile": "bot_obvious",
+    "site_mode": "standard",
+    "start_time": "2025-12-04T14:46:24.878473Z",
+    "extracted_wpm": 0.0,
+    "extracted_accuracy": 100.0,
+    "computed_wpm": 540.118930045805,
+    "keystrokes_count": 56,
+    "end_time": "2025-12-04T14:46:32.001363Z"
+  },
+  "keystroke_log": [
+    {
+      "key": "s",
+      "timestamp": 1764859589.621759,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859589.6584966,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764859589.689116,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764859589.7169275,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764859589.7436235,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859589.771372,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764859589.7982662,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859589.8264937,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859589.8521385,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764859589.8772497,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859589.906206,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859589.9326549,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764859589.9539332,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859589.979007,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.0024467,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764859590.027238,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.05509,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859590.0770466,
+      "action": "keypress"
+    },
+    {
+      "key": "u",
+      "timestamp": 1764859590.1020482,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764859590.1270514,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.1479766,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859590.1738536,
+      "action": "keypress"
+    },
+    {
+      "key": "m",
+      "timestamp": 1764859590.1969976,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859590.2206016,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.2445428,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.2708035,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859590.2951818,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764859590.3164172,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764859590.3366148,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764859590.3569422,
+      "action": "keypress"
+    },
+    {
+      "key": "h",
+      "timestamp": 1764859590.3782148,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859590.397326,
+      "action": "keypress"
+    },
+    {
+      "key": "s",
+      "timestamp": 1764859590.4139862,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.4311547,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859590.4473584,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764859590.463989,
+      "action": "keypress"
+    },
+    {
+      "key": "a",
+      "timestamp": 1764859590.4819965,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.4974418,
+      "action": "keypress"
+    },
+    {
+      "key": "i",
+      "timestamp": 1764859590.5196695,
+      "action": "keypress"
+    },
+    {
+      "key": "o",
+      "timestamp": 1764859590.5386076,
+      "action": "keypress"
+    },
+    {
+      "key": "n",
+      "timestamp": 1764859590.5589275,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859590.5763092,
+      "action": "keypress"
+    },
+    {
+      "key": "r",
+      "timestamp": 1764859590.5975413,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.6222475,
+      "action": "keypress"
+    },
+    {
+      "key": "f",
+      "timestamp": 1764859590.6402824,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764859590.6597846,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.6812646,
+      "action": "keypress"
+    },
+    {
+      "key": "c",
+      "timestamp": 1764859590.7064922,
+      "action": "keypress"
+    },
+    {
+      "key": "t",
+      "timestamp": 1764859590.7260475,
+      "action": "keypress"
+    },
+    {
+      "key": " ",
+      "timestamp": 1764859590.7452173,
+      "action": "keypress"
+    },
+    {
+      "key": "d",
+      "timestamp": 1764859590.764417,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.790383,
+      "action": "keypress"
+    },
+    {
+      "key": "e",
+      "timestamp": 1764859590.8122168,
+      "action": "keypress"
+    },
+    {
+      "key": "p",
+      "timestamp": 1764859590.829765,
+      "action": "keypress"
+    },
+    {
+      "key": "l",
+      "timestamp": 1764859590.8475275,
+      "action": "keypress"
+    },
+    {
+      "key": "y",
+      "timestamp": 1764859590.8659294,
+      "action": "keypress"
+    }
+  ],
+  "target_text_sample": "simplicity is the ultimate sophistication reflect deeply"
+}
