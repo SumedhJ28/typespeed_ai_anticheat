@@ -27,8 +27,10 @@ from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout
 # If you prefer, set these in bots/selectors.env and the script will load them.
 SELECTOR_TARGET_TEXT = "div.text-display-area"   # e.g. "div.type-text"
 SELECTOR_HIDDEN_INPUT = "#typing-input"          # e.g. "input[type='text']" or "div[contenteditable='true']"
-SELECTOR_RESULT_WPM = "div.text-2xl.font-bold.text-primary"    # e.g. ".result .wpm"
-SELECTOR_RESULT_ACCURACY = "div.text-2xl.font-bold.text-primary"  # e.g. ".result .accuracy"
+# Best-effort CSS selectors (preferred)
+SELECTOR_RESULT_WPM = "#typing-practice-card .grid > div:nth-child(1) .text-2xl.font-bold.text-primary"
+SELECTOR_RESULT_ACCURACY = "#typing-practice-card .grid > div:nth-child(2) .text-2xl.font-bold.text-primary"
+
 # ---------------------------------------------------------------
 
 # ---------------------------------------------------------------
