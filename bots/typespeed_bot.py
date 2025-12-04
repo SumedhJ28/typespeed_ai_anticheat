@@ -180,7 +180,7 @@ def run_iteration(playwright, args, iteration_idx):
     }
 
     try:
-        page.goto("https://typespeedai.com", timeout=30000)
+        page.goto("https://typespeedai.com/", timeout=30000)
     except PwTimeout:
         print("Page load timed out.")
         browser.close()
@@ -215,9 +215,62 @@ def run_iteration(playwright, args, iteration_idx):
         print("Could not locate target text. Update SELECTOR_TARGET_TEXT in bots/selectors.env or the script.")
         browser.close()
         return None
+    
+    # Clean up text formatting for typing 
+        
+    if not target_text:
+        print("Could not locate target text. Update SELECTOR_TARGET_TEXT in bots/selectors.env or the script.")
+        browser.close()
+        return None
+
+    # ------- CLEAN TARGET TEXT (important to avoid accidental errors) -------
+    # Normalize whitespace and collapse per-letter DOM splits while keeping real single-letter words.
+    import re
+
+    # convert NBSP and newlines into regular spaces
+    target_text = (
+        target_text.replace("\u00a0", " ")
+                   .replace("\n", " ")
+                   .replace("\r", " ")
+    )
+
+    # collapse multiple whitespace into a single space
+    target_text = re.sub(r"\s+", " ", target_text).strip()
+
+    # Collapse runs of single-letter alphabetic tokens (e.g. "t r u t h" -> "truth")
+    # but keep isolated single-letter words (e.g. "I have") intact.
+    tokens = target_text.split(" ")
+    out_tokens = []
+    i = 0
+    n = len(tokens)
+    while i < n:
+        tok = tokens[i]
+        # check for single-letter alphabetic token
+        if len(tok) == 1 and tok.isalpha():
+            j = i
+            run = []
+            # gather a consecutive run of single-letter alphabetic tokens
+            while j < n and len(tokens[j]) == 1 and tokens[j].isalpha():
+                run.append(tokens[j])
+                j += 1
+            run_len = len(run)
+            if run_len >= 2:
+                # join the whole run into one word
+                out_tokens.append("".join(run))
+            else:
+                # single-letter token (likely valid: "I" or "a") — keep as-is
+                out_tokens.append(run[0])
+            i = j
+        else:
+            out_tokens.append(tok)
+            i += 1
+
+    target_text = " ".join(out_tokens).strip()
+    # ------------------------------------------------------------------------
 
     # Type the text
     print(f"[iter {iteration_idx}] Typing {len(target_text)} chars (profile={args.mode})...")
+
     keystroke_log = type_text_profile(page, target_text, args.mode, args)
 
     # wait a moment for result modal
