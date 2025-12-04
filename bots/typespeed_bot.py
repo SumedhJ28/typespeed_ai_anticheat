@@ -28,7 +28,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout
 SELECTOR_TARGET_TEXT = "div.text-display-area"   # e.g. "div.type-text"
 SELECTOR_HIDDEN_INPUT = "#typing-input"          # e.g. "input[type='text']" or "div[contenteditable='true']"
 # Best-effort CSS selectors (preferred)
-SELECTOR_RESULT_WPM = "#typing-practice-card .grid > div:nth-child(1) .text-2xl.font-bold.text-primary"
+SELECTOR_RESULT_WPM = "//div[.//p[normalize-space(.)='Words per minute'] or .//div[normalize-space(.)='WPM']]//div[contains(@class,'text-2xl') and contains(@class,'font-bold')]"
 SELECTOR_RESULT_ACCURACY = "#typing-practice-card .grid > div:nth-child(2) .text-2xl.font-bold.text-primary"
 
 # ---------------------------------------------------------------
